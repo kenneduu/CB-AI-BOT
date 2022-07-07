@@ -1,0 +1,15 @@
+{
+    "name": "cuthbertjs",
+    "version": "1.0.0",
+    "description": "javascript version of https://github.com/kenneduu/CB-AI-BOT",
+    "main": "cuthbert.js",
+    "scripts": {
+        "cuthbert": "node cuthbert.js",
+        "train": "node train.js"
+    },
+    "author": "elementalmp4",
+    "license": "ISC",
+    "dependencies": {
+        "node-nlp": "^4.24.0"
+    }
+}
